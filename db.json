@@ -9,7 +9,7 @@
         },
         {
           "id": 2,
-          "text": "Button 223",
+          "text": "Button 2",
           "subdirectory": "/directory2/",
           "secondary": false,
           "class": ""
@@ -48,7 +48,7 @@
         {
           "id": 1,
           "class": "is-primary notification",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor."
+          "content": "BLAH Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor."
         },
         {
           "id": 2,
