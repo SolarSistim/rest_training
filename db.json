@@ -5,21 +5,21 @@
           "text": "Button 1",
           "subdirectory": "/directory1/",
           "secondary": "false",
-          "class": ""
+          "class": "is-light"
         },
         {
           "id": 2,
           "text": "Button 2",
           "subdirectory": "/directory2/",
           "secondary": false,
-          "class": ""
+          "class": "is-light"
         },
         {
           "id": 3,
           "text": "Button 3",
           "subdirectory": "/directory3/",
           "secondary": false,
-          "class": ""
+          "class": "is-light"
         },
         {
           "id": 4,
