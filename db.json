@@ -1,7 +1,10 @@
 {
   "site": [
     {
-      "name":"John"
+      "name": "John"
+    },
+    {
+      "name": "Julie"
     }
   ]
 }
