@@ -1,10 +1,71 @@
 {
-  "site": [
-    {
-      "name": "John"
-    },
-    {
-      "name": "Julie"
+      "navbar": [
+        {
+          "id": "1",
+          "text": "Button 1",
+          "subdirectory": "/directory1/",
+          "secondary": "false",
+          "class": "none"
+        },
+        {
+          "id": 2,
+          "text": "Button 2",
+          "subdirectory": "/directory2/",
+          "secondary": false,
+          "class": "none"
+        },
+        {
+          "id": 3,
+          "text": "Button 3",
+          "subdirectory": "/directory3/",
+          "secondary": false,
+          "class": "none"
+        },
+        {
+          "id": 4,
+          "text": "Button 4",
+          "subdirectory": "/directory4",
+          "secondary": true,
+          "class": "is-light"
+        },
+        {
+          "id": 5,
+          "text": "Button 5",
+          "subdirectory": "/directory5",
+          "secondary": true,
+          "class": "is-primary"
+        }
+      ],
+      "navbarConfig": [
+        {
+        "textLogo": false,
+        "textLogoContent": "TEXT LOGO",
+        "logoUrl": "https://bulma.io/images/bulma-logo.png",
+        "class": "is-info"
+        }
+      ],
+      "notifications": [
+        {
+          "id": 1,
+          "class": "is-primary notification",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor."
+        },
+        {
+          "id": 2,
+          "class": "is-link notification",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor."
+        },
+        {
+          "id": 3,
+          "class": "is-info notification",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor."
+        }
+      ],
+      "footer": [
+        {
+          "company_name": "Company Name",
+          "copyright_year": "2022",
+          "website_href": "https://www.google.com"
+        }
+      ]
     }
-  ]
-}
