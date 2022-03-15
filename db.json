@@ -1,5 +1,7 @@
-site: [
-  {
-    "name":"John"
-  }
-]
+{
+  site: [
+    {
+      "name":"John"
+    }
+  ]
+}
